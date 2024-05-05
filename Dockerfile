@@ -1,5 +1,5 @@
 FROM node:14
-WORKDIR /home/ubuntu/Jenkins/workspace/Deploy/Shark1/
+WORKDIR /home/ubuntu/Jenkins/workspace/deploy2march/finaldevsecops/
 COPY package*.json ./
 RUN npm install
 COPY . .
