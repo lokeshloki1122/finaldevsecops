@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: shark
-        image: lokeshloki1122/devsecopsfinaliage
+        image: lokeshloki1122/devsecopsfinalimage
         ports:
         - containerPort: 8080
